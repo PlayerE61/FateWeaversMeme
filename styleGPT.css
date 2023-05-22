@@ -29,3 +29,16 @@
   text-align: center;
   background-color: white;
 }
+
+.highlighted-image-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.highlighted-image {
+  width: 50%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  background-color: black;
+}
