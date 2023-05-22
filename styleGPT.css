@@ -31,14 +31,14 @@
 }
 
 .highlighted-image-container {
-  text-align: center;
-  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40vh;
+  /*background-color: black;*/
 }
 
 .highlighted-image {
-  width: 50%;
-  height: auto;
-  display: block;
-  margin: 0 auto;
-  background-color: black;
+  max-width: 100%;
+  max-height: 100%;
 }
