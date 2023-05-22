@@ -1,0 +1,31 @@
+/* Center the text class */
+.text {
+  text-align: center;
+}
+
+/* Scale the image class for two images per row */
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 10px;
+}
+
+/* Style for the image cards */
+.card {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+}
+
+/* Style for the images */
+.image {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+.last.card {
+  grid-column: 1 / -1;
+  text-align: center;
+  background-color: white;
+}
