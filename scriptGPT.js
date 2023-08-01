@@ -27,6 +27,20 @@ const imageSources = [
   "./photos/IMG_025.JPG",
   "./photos/IMG_026.JPG",
   "./photos/IMG_027.JPG",
+  "./photos/IMG_028.JPG",
+  "./photos/IMG_029.JPG",
+  "./photos/IMG_030.JPG",
+  "./photos/IMG_031.JPG",
+  "./photos/IMG_032.JPG",
+  "./photos/IMG_033.JPG",
+  "./photos/IMG_034.JPG",
+  "./photos/IMG_035.JPG",
+  "./photos/IMG_036.JPG",
+  "./photos/IMG_037.JPG",
+  "./photos/IMG_038.JPG",
+  "./photos/IMG_039.JPG",
+  "./photos/IMG_040.JPG",
+  "./photos/IMG_041.JPG",
 
   // Add more image source file names as needed
 ];
